@@ -1,7 +1,7 @@
 {
     "dependencies": {
         "@tomphttp/bare-client": "^2.2.0-alpha",
-        "@tomphttp/bare-server-node": "^2.0.1",
+        "@tomphttp/bare-server-node": "2.0.3",
         "acorn": "^8.10.0",
         "astring": "^1.8.6",
         "chalk": "^5.3.0",
